@@ -7,8 +7,8 @@
 
 - 🌱 Tech Stack Focus  **📱 Mobile (Flutter/Kotlin) | 💻 Web Fullstack | 🚀 Building scalable apps.**
 - 💬 Ask me about **Anything you like**
-- 📫 How to reach me **vioazuhri22@gmail.com**
-- 🔗 Portofolio: **https://vio-azuhri.vercel.app/**
+- 📫 How to reach me **ropitayohanasitumorang@gmail.con**
+- 🔗 Portofolio: ****
 
 ---
 
